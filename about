@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Us - The Coffee Bean</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="pic/download.png" class="logo">
+    <nav>
+      <ul>
+        <li><a href="Home">Home</a></li>
+        <li><a href="about">About Us</a></li>
+        <li><a href="coffee">Coffee</a></li>
+        <li><a href="snacks">Snacks</a></li>
+        <li><a href="promotions">Promotions</a></li>
+        <li><a href="event">Events</a></li>
+        <li><a href="gallery">Gallery</a></li>
+        <li><a href="blog">Blog</a></li>
+        <li><a href="contact">Contact</a></li>
+        <li><a href="giftcards">Gift Cards</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="about-us">
+      <h2>About The Coffee Cherry</h2>
+      <p>Welcome to The Coffee Cherry! We're a passionate team dedicated to creating the perfect cup of coffee and a welcoming environment for our customers. We believe coffee is more than just a beverage; it's an experience. We use only the finest roasted beans and handcrafted recipes to ensure every cup is delicious and satisfying.</p>
+      <img src="pic/barista.jpg" alt="Barista brewing coffee">
+      <h3>Our Story</h3>
+      <p>The Coffee Bean was founded in 2023 by Meriam Rubo. We've always shared a love for coffee and a dream of creating a community space where people could gather, connect, and enjoy a great cup of coffee.</p>
+      <h3>Our Mission</h3>
+      <p>Our mission is to provide our customers with the highest quality coffee experience possible. We're passionate about sourcing the best beans, roasting them perfectly, and creating innovative and delicious drinks.</p>
+      <h3>Our Values</h3>
+      <ul>
+        <li>Quality: We use only the finest ingredients and craft our coffee with care.</li>
+        <li>Community: We create a welcoming environment where people can connect and feel at home.</li>
+        <li>Sustainability: We source our beans ethically and are committed to sustainable practices.</li>
+        <li>Innovation: We're always looking for new ways to improve our coffee and create unique experiences for our customers.</li>
+      </ul>
+      <h3>Why Choose The Coffee Bean?</h3>
+      <ul>
+        <li>High-quality coffee: We use only the finest roasted beans and handcrafted recipes.</li>
+        <li>Variety of options: We offer a wide variety of coffee drinks, teas, and other beverages, as well as food and snacks.</li>
+        <li>Friendly and knowledgeable staff: Our staff is passionate about coffee and is always happy to answer your questions and help you find the perfect drink.</li>
+        <li>Relaxing atmosphere: We offer a comfortable and inviting space where you can relax and enjoy your coffee.</li>
+        <li>Commitment to community: We are committed to supporting our local community and giving back to those in need.</li>
+      </ul>
+    </section>
+  </main>
+</body>
+</html>
