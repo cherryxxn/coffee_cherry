@@ -1,0 +1,51 @@
+
+.gift-card-section {
+    background-color: #f9f9f9;
+    padding: 40px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 40px;
+  }
+  
+  .gift-card-section h2 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .gift-card-info {
+    margin-bottom: 30px;
+  }
+  
+  .gift-card-info p {
+    color: #666;
+    line-height: 1.6;
+    margin-bottom: 10px;
+  }
+  
+  .gift-card-options,
+  .gift-card-purchase {
+    text-align: center;
+  }
+  
+  .gift-card-options h3,
+  .gift-card-purchase h3 {
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .gift-card-options ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .gift-card-options li {
+    color: #666;
+    margin-bottom: 8px;
+  }
+  
+  .gift-card-purchase p {
+    color: #666;
+    line-height: 1.6;
+  }
+  

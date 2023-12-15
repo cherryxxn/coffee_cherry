@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Coffee Shop</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="pic/download.png" class="logo">
+    <nav>
+      <ul>
+        <li><a href="Home">Home</a></li>
+        <li><a href="about">About Us</a></li>
+        <li><a href="coffee">Coffee</a></li>
+        <li><a href="snacks">Snacks</a></li>
+        <li><a href="promotions">Promotions</a></li>
+        <li><a href="event">Events</a></li>
+        <li><a href="gallery">Gallery</a></li>
+        <li><a href="blog">Blog</a></li>
+        <li><a href="contact">Contact</a></li>
+        <li><a href="giftcards">Gift Cards</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="promotions">
+        <h2>Current Promotions</h2>
+        <ul class="promotion-list">
+          <li>
+            <h3>Free Coffee with Purchase</h3>
+            <p>Get a free small coffee with any purchase of $5 or more.</p>
+            <span class="valid-until">Valid until December 31st, 2023.</span>
+          </li>
+          <li>
+            <h3>Happy Hour Specials</h3>
+            <p>Enjoy 50% off all espresso drinks from 3pm to 5pm daily.</p>
+            <span class="valid-until">Valid every day.</span>
+          </li>
+        </ul>
+      </section>
+      
+  </main>
+</body>
+</html>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Coffee Shop</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="pic/download.png" class="logo">
+    <nav>
+      <ul>
+        <li><a href="Home">Home</a></li>
+        <li><a href="about">About Us</a></li>
+        <li><a href="coffee">Coffee</a></li>
+        <li><a href="snacks">Snacks</a></li>
+        <li><a href="promotions">Promotions</a></li>
+        <li><a href="event">Events</a></li>
+        <li><a href="gallery">Gallery</a></li>
+        <li><a href="blog">Blog</a></li>
+        <li><a href="contact">Contact</a></li>
+        <li><a href="giftcards">Gift Cards</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="snacks">
+      <h2>Snacks</h2>
+      <p>Treat yourself to a delicious selection of snacks at The Coffee Bean!</p>
+      <div class="featured-snacks">
+        <h3>Sweet</h3>
+        <ul>
+          <li>
+            <img src="pic/cookies.png" alt="Chocolate Chip Cookies">
+            <h4>Chocolate Chip Cookies</h4>
+            <p>Freshly baked cookies loaded with melty chocolate chips.</p>
+            <span class="price">$2.50</span>
+          </li>
+          <li>
+            <img src="pic/cinnamon.png" alt="Cinnamon Buns">
+            <h4>Cinnamon Buns</h4>
+            <p>Warm and gooey cinnamon buns with a sweet glaze.</p>
+            <span class="price">$3.00</span>
+          </li>
+          <li>
+            <img src="pic/blueberry.png" alt="Blueberry Muffins">
+            <h4>Blueberry Muffins</h4>
+            <p>Moist and flavorful muffins bursting with juicy blueberries.</p>
+            <span class="price">$2.00</span>
+          </li>
+        </ul>
+      </div>
+      <div class="featured-snacks">
+        <h3>Savory</h3>
+        <ul>
+          <li>
+            <img src="pic/ham.png" alt="Ham & Cheese Croissants">
+            <h4>Ham & Cheese Croissants</h4>
+            <p>Flaky croissants filled with savory ham and cheese.</p>
+            <span class="price">$3.50</span>
+          </li>
+          <li>
+            <img src="pic/mini.png" alt="Mini Quiches">
+            <h4>Mini Quiches</h4>
+            <p>Bite-sized quiches with various fillings like spinach and feta or bacon and cheddar.</p>
+            <span class="price">$2.50 each</span>
+          </li>
+          <li>
+            <img src="pic/pretzel.png" alt="Pretzels & Cheese Dip">
+            <h4>Pretzels & Cheese Dip</h4>
+            <p>Classic pretzels served with a creamy cheese dip.</p>
+            <span class="price">$3.00</span>
+          </li>
+        </ul>
+      </div>
+    </section>
+    
+  </main>
+
+</body>
+</html>

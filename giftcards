@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Coffee Shop</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="pic/download.png" class="logo">
+    <nav>
+      <ul>
+        <li><a href="Home">Home</a></li>
+        <li><a href="about">About Us</a></li>
+        <li><a href="coffee">Coffee</a></li>
+        <li><a href="snacks">Snacks</a></li>
+        <li><a href="promotions">Promotions</a></li>
+        <li><a href="event">Events</a></li>
+        <li><a href="gallery">Gallery</a></li>
+        <li><a href="blog">Blog</a></li>
+        <li><a href="contact">Contact</a></li>
+        <li><a href="giftcards">Gift Cards</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="gift-cards">
+        <h2>The Perfect Gift: Coffee Shop Gift Cards</h2>
+        <p>Give the gift of coffee lovers' delight with our gift cards! Perfect for any occasion, our gift cards can be used for any purchase in our coffee shop.</p>
+        <img src="pic/gift.jpg" alt="Gift Card">
+        <ul class="gift-card-options">
+          <li>
+            <h3>Physical Gift Card</h3>
+            <p>Purchase a physical gift card in any denomination at our store.</p>
+          </li>
+          <li>
+            <h3>Digital Gift Card</h3>
+            <p>Send a digital gift card instantly via email in any denomination.</p>
+            <a href="#" class="btn purchase-digital">Purchase Digital Gift Card</a>
+          </li>
+        </ul>
+        <p>Our gift cards are valid for one year from the date of purchase and are non-refundable.</p>
+      </section>      
+  </main>
+</body>
+</html>

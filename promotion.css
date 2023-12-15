@@ -1,0 +1,33 @@
+
+.promotions-section {
+    background-color: #f9f9f9;
+    padding: 40px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 40px;
+  }
+  
+  .promotions-section h2 {
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .promotion-item {
+    margin-bottom: 40px;
+  }
+  
+  .promotion-item img {
+    max-width: 100%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .promotion-item h3 {
+    color: #333;
+  }
+  
+  .promotion-item p {
+    color: #666;
+    line-height: 1.6;
+  }
+  
