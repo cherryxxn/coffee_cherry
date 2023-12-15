@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Coffee Shop</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="pic/download.png" class="logo">
+    <nav>
+      <ul>
+        <li><a href="Home">Home</a></li>
+        <li><a href="about">About Us</a></li>
+        <li><a href="coffee">Coffee</a></li>
+        <li><a href="snacks">Snacks</a></li>
+        <li><a href="promotions">Promotions</a></li>
+        <li><a href="event">Events</a></li>
+        <li><a href="gallery">Gallery</a></li>
+        <li><a href="blog">Blog</a></li>
+        <li><a href="contact">Contact</a></li>
+        <li><a href="giftcards">Gift Cards</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="events">
+        <h2>Upcoming Events</h2>
+        <ul class="event-list">
+          <li>
+            <img src="pic/live-music.jpg" alt="Live Music">
+            <h3>Live Music Night</h3>
+            <p>Join us for a night of live music with local band "Coffee Cherry".</p>
+            <p>Date: December 15th, 2023 - Time: 7:00 PM</p>
+            <a href="#" class="btn learn-more">Learn More</a>
+          </li>
+          <li>
+            <img src="pic/baresta.jpg" alt="Coffee Workshop">
+            <h3>Coffee Brewing Workshop</h3>
+            <p>Learn how to brew the perfect cup of coffee with our expert barista.</p>
+            <p>Date: December 20th, 2023 - Time: 10:00 AM</p>
+            <a href="#" class="btn learn-more">Learn More</a>
+          </li>
+        </ul>
+      </section>
+      
+  </main>
+</body>
+</html>

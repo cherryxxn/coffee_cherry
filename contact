@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Coffee Shop</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="pic/download.png" class="logo">
+    <nav>
+      <ul>
+        <li><a href="Home">Home</a></li>
+        <li><a href="about">About Us</a></li>
+        <li><a href="coffee">Coffee</a></li>
+        <li><a href="snacks">Snacks</a></li>
+        <li><a href="promotions">Promotions</a></li>
+        <li><a href="event">Events</a></li>
+        <li><a href="gallery">Gallery</a></li>
+        <li><a href="blog">Blog</a></li>
+        <li><a href="contact">Contact</a></li>
+        <li><a href="giftcards">Gift Cards</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="contact">
+        <h2>Contact Us</h2>
+        <p>We'd love to hear from you! Get in touch with us using the form below or find us at our store.</p>
+        <div class="contact-info">
+          <ul>
+            <li><i class="fa fa-map-marker"></i> <span>tukuran ZDS</span></li>
+            <li><i class="fa fa-phone"></i> <span>09753011566</span></li>
+            <li><i class="fa fa-envelope"></i> <span><a>cherry.gonzales@zdspgc.edu.ph</a></span></li>
+          </ul>
+        </div>
+        <form action="contact.php" method="post">
+          <div class="form-group">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" placeholder="Your Name" required>
+          </div>
+          <div class="form-group">
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" placeholder="Your Email" required>
+          </div>
+          <div class="form-group">
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" placeholder="Your Message" required></textarea>
+          </div>
+          <button type="submit" class="btn">Send Message</button>
+        </form>
+      </section>
+      
+  </main>
+</body>
+</html>
