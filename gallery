@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Coffee Shop</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="pic/download.png" class="logo">
+    <nav>
+      <ul>
+        <li><a href="Home">Home</a></li>
+        <li><a href="about">About Us</a></li>
+        <li><a href="coffee">Coffee</a></li>
+        <li><a href="snacks">Snacks</a></li>
+        <li><a href="promotions">Promotions</a></li>
+        <li><a href="event">Events</a></li>
+        <li><a href="gallery">Gallery</a></li>
+        <li><a href="blog">Blog</a></li>
+        <li><a href="contact">Contact</a></li>
+        <li><a href="giftcards">Gift Cards</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="gallery">
+      <h2>Our Gallery</h2>
+      <ul class="gallery-list">
+          <li>
+              <img src="pic/interior.jpg" alt="Interior Shot">
+          </li>
+          <li>
+              <img src="pic/varieties.jpg" alt="Coffee Varieties">
+          </li>
+          <li>
+              <img src="pic/snacks.jpg" alt="Snacks and Pastries">
+          </li>
+          <li>
+              <img src="pic/customer.jpg" alt="Customer Interaction">
+          </li>
+      </ul>
+    </section>
+      
+  </main>
+
+</body>
+</html>

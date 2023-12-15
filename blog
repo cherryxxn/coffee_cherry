@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Coffee Shop</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="pic/download.png" class="logo">
+    <nav>
+      <ul>
+        <li><a href="Home">Home</a></li>
+        <li><a href="about">About Us</a></li>
+        <li><a href="coffee">Coffee</a></li>
+        <li><a href="snacks">Snacks</a></li>
+        <li><a href="promotions">Promotions</a></li>
+        <li><a href="event">Events</a></li>
+        <li><a href="gallery">Gallery</a></li>
+        <li><a href="blog">Blog</a></li>
+        <li><a href="contact">Contact</a></li>
+        <li><a href="giftcards">Gift Cards</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="blog">
+        <h2>Blog</h2>
+        <ul class="post-list">
+          <li>
+            <img src="pic/perfect.jpg" alt="Blog Post 1">
+            <h3>The Perfect Cup: Brewing Tips for Beginners</h3>
+            <p>Learn how to brew the perfect cup of coffee at home with these simple tips and tricks.</p>
+            <a href="post1.html" class="btn read-more">Read More</a>
+          </li>
+          <li>
+            <img src="pic/benefits.jpg" alt="Blog Post 2">
+            <h3>Coffee & Health: The Benefits of Your Daily Brew</h3>
+            <p>Discover the many health benefits of drinking coffee and how it can boost your energy and well-being.</p>
+            <a href="post2.html" class="btn read-more">Read More</a>
+          </li>
+        </ul>
+      </section>
+      
+  </main>
+
+</body>
+</html>

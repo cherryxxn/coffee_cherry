@@ -1,0 +1,23 @@
+
+.gallery-section {
+    padding: 40px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 40px;
+  }
+  
+  .gallery-section h2 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .gallery-item {
+    margin-bottom: 20px;
+  }
+  
+  .gallery-item img {
+    max-width: 100%;
+    border-radius: 5px;
+  }
+  
